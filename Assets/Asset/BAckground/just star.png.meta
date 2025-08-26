@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: f0b2aa54510973548ac9e4341576605b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3185664613688509086
+    second: just star_0
+  - first:
+      213: -2587446300817941350
+    second: just star_1
+  - first:
+      213: 3726654870807426568
+    second: just star_2
+  - first:
+      213: -8514483148442570841
+    second: just star_3
+  - first:
+      213: -2851110592800174122
+    second: just star_4
+  - first:
+      213: 2286524584817336243
+    second: just star_5
+  - first:
+      213: 6858162397244166503
+    second: just star_6
+  - first:
+      213: 8259437862624554928
+    second: just star_7
+  - first:
+      213: -6349124603608887690
+    second: just star_8
+  - first:
+      213: 5579601629587673882
+    second: just star_9
+  - first:
+      213: 3614676786563746034
+    second: just star_10
+  - first:
+      213: 6364475779596214967
+    second: just star_11
+  - first:
+      213: -548202339554505784
+    second: just star_12
+  - first:
+      213: -1451684992274299956
+    second: just star_13
+  - first:
+      213: 790883614582092847
+    second: just star_14
+  - first:
+      213: 902052271586406922
+    second: just star_15
+  - first:
+      213: 6983120666683246401
+    second: just star_16
+  - first:
+      213: -1234542697136808654
+    second: just star_17
+  - first:
+      213: 8675561907324546759
+    second: just star_18
+  - first:
+      213: 1396891529112262089
+    second: just star_19
+  - first:
+      213: 4152118304203836803
+    second: just star_20
+  - first:
+      213: 4703051883374147136
+    second: just star_21
+  - first:
+      213: -2870419576152248498
+    second: just star_22
+  - first:
+      213: 7160828928959991035
+    second: just star_23
+  - first:
+      213: 8698468147890247297
+    second: just star_24
+  - first:
+      213: -8007952830083727342
+    second: just star_25
+  - first:
+      213: -2676356140147905413
+    second: just star_26
+  - first:
+      213: -4550540474107388674
+    second: just star_27
+  - first:
+      213: 4522247627795712557
+    second: just star_28
+  - first:
+      213: 910934175004504804
+    second: just star_29
+  - first:
+      213: -933580657184917145
+    second: just star_30
+  - first:
+      213: -7671548725930832921
+    second: just star_31
+  - first:
+      213: -2062366881944184966
+    second: just star_32
+  - first:
+      213: -2232047541925055937
+    second: just star_33
+  - first:
+      213: -5904219634751940268
+    second: just star_34
+  - first:
+      213: -1327814362327374578
+    second: just star_35
+  - first:
+      213: -425955576341952534
+    second: just star_36
+  - first:
+      213: 4757759403596885967
+    second: just star_37
+  - first:
+      213: -3503053903234195518
+    second: just star_38
+  - first:
+      213: 586336403865854709
+    second: just star_39
+  - first:
+      213: -867686469656549200
+    second: just star_40
+  - first:
+      213: 6975827803582774350
+    second: just star_41
+  - first:
+      213: 305333423165502674
+    second: just star_42
+  - first:
+      213: 2350277703429346573
+    second: just star_43
+  - first:
+      213: -2515464408562980852
+    second: just star_44
+  - first:
+      213: 1571073260767603683
+    second: just star_45
+  - first:
+      213: 2619050415769116250
+    second: just star_46
+  - first:
+      213: -2856726142151406275
+    second: just star_47
+  - first:
+      213: -1293572713091199705
+    second: just star_48
+  - first:
+      213: 3860658069858447683
+    second: just star_49
+  - first:
+      213: -9146594162895985765
+    second: just star_50
+  - first:
+      213: 6217769406684655931
+    second: just star_51
+  - first:
+      213: -7912951590956654100
+    second: just star_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: just star_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2160
+        height: 2160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e928f687611c53c20800000000000000
+      internalID: 3185664613688509086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e63453918088dd439f616242f35b0ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      just star_0: 3185664613688509086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
