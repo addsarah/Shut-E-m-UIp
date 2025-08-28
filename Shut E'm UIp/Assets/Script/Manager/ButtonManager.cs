@@ -84,6 +84,7 @@ public class ButtonManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         StartCoroutine(RestartSequence());
+        PointManager.score = 0;
     }
 
     private IEnumerator RestartSequence()
