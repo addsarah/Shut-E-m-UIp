@@ -6,7 +6,7 @@ using System.Collections;
 
 public class PlayerHp : MonoBehaviour
 {
-    public int currentHealth = 100;
+    public int currentHealth = 3;
     public TextMeshProUGUI hp;
     private Animator animator;
   

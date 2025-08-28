@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 3
+  serializedVersion: 2
   tags:
   - Enemy
   - wall
@@ -58,5 +58,6 @@ TagManager:
   - name: 5Player
     uniqueID: 3345701591
     locked: 0
-  m_RenderingLayers:
-  - Default
+  - name: Shield
+    uniqueID: 3130371601
+    locked: 0
