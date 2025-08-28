@@ -105,6 +105,11 @@ public class ButtonManager : MonoBehaviour
         Debug.Log("Keluar dari game...");
         Application.Quit();
     }
+
+    public void EnterGame()
+    {
+        SceneManager.LoadScene("Stage1");
+    }
     
     
 }
