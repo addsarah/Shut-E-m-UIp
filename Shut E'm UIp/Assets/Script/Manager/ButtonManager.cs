@@ -96,7 +96,7 @@ public class ButtonManager : MonoBehaviour
     
     public void QuitGame()
     {
-        StartCoroutine(QuitGameSequence());
+       Application.Quit();
     }
 
     private IEnumerator QuitGameSequence()
