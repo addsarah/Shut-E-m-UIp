@@ -118,7 +118,7 @@ AnimatorController:
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
-    m_StateMachine: {fileID: 772205462446362682}
+    m_StateMachine: {fileID: 5173832213868493851}
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -129,8 +129,8 @@ AnimatorController:
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
   - serializedVersion: 5
-    m_Name: New Layer
-    m_StateMachine: {fileID: 5173832213868493851}
+    m_Name: Base Layer r
+    m_StateMachine: {fileID: 772205462446362682}
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -147,7 +147,7 @@ AnimatorStateMachine:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Base Layer
+  m_Name: Base Layer r
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -7539660174504889486}
@@ -169,11 +169,11 @@ AnimatorStateMachine:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Layer
+  m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 7335266948144766227}
-    m_Position: {x: 390, y: 140, z: 0}
+    m_Position: {x: 790, y: 30, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2542573695532267139}
     m_Position: {x: 390, y: 620, z: 0}
@@ -208,7 +208,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 0}
+  m_Motion: {fileID: 7400000, guid: 8b7bea80bae245042bfc151e22af20be, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
